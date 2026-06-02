@@ -1,5 +1,8 @@
-*.roff linguist-detectable=false
-*.man linguist-detectable=false
-*.1 linguist-detectable=false
-*.3 linguist-detectable=false
+*.[1-9] linguist-generated=true
+*.man linguist-generated=true
+*.roff linguist-generated=true
+*.troff linguist-generated=true
+docs/** linguist-generated=true
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
 *.h linguist-language=C++
