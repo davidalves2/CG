@@ -1,0 +1,22 @@
+# Ficheiros do CMake e Make
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+*.cmake
+
+# Executáveis compilados e ficheiros de objeto
+generator
+engine
+*.out
+*.o
+
+# Ficheiros de dados gerados (Pasta 3d)
+*.3d
+3d/*.3d
+
+# Ficheiros do sistema (macOS) e IDEs
+.DS_Store
+*.xcodeproj/
+*.xcworkspace/
+build/

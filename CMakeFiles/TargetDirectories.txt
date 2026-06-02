@@ -1,0 +1,4 @@
+/Users/davidalves/Desktop/2Semestre/CG/CG25-26/CMakeFiles/generator.dir
+/Users/davidalves/Desktop/2Semestre/CG/CG25-26/CMakeFiles/engine.dir
+/Users/davidalves/Desktop/2Semestre/CG/CG25-26/CMakeFiles/edit_cache.dir
+/Users/davidalves/Desktop/2Semestre/CG/CG25-26/CMakeFiles/rebuild_cache.dir
