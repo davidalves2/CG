@@ -1,0 +1,5 @@
+*.roff linguist-detectable=false
+*.man linguist-detectable=false
+*.1 linguist-detectable=false
+*.3 linguist-detectable=false
+*.h linguist-language=C++
